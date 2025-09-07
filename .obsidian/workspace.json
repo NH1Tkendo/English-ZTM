@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "a6eb82c36cbb31d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5aa6c9b396e4238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da72c53fbbd359e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/3-1-4 Practice it! - Verb Conjugation (1st, 2nd, 3rd Person).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-1-4 Practice it! - Verb Conjugation (1st, 2nd, 3rd Person)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddffd374cfef7d70",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ab99a0f5c95760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa13d16984a180d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be6617409ae0f0d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f43b2b61f8a12c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42e86b641b17357b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb331d842757346a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2fd3a7fc83c9700",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How English Works - A Quick Review/1-1 The Parts of an English Sentence - English Grammar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-1 The Parts of an English Sentence - English Grammar"
+            }
+          },
+          {
+            "id": "ae7dc141d531f450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How English Works - A Quick Review/1-1 The Parts of an English Sentence - English Grammar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-1 The Parts of an English Sentence - English Grammar"
+            }
+          },
+          {
+            "id": "fc66a4dc242b9aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9399430969be502",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How English Works - A Quick Review/1-1 The Parts of an English Sentence - English Grammar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-1 The Parts of an English Sentence - English Grammar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1aa13d16984a180d",
+  "lastOpenFiles": [
+    "3. Verb Tenses/3-2 Subject-Verb Agreement/Review+it!+-+Subject-Verb+Agreement+-+PRINT+VERSION.pdf",
+    "3. Verb Tenses/3-2 Subject-Verb Agreement/Learn+it!+-+Subject-Verb+Agreement+-+PRINT+VERSION.pdf",
+    "3. Verb Tenses/3-2 Subject-Verb Agreement",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/3-1-3 Use it! - Verb Conjugation (1st, 2nd, 3rd Person).md",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/3-1-4 Practice it! - Verb Conjugation (1st, 2nd, 3rd Person).md",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/3-1-2 Review it! - Verb Conjugation (1st, 2nd, 3rd).md",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/3-1-1 Learn it! - Verb Conjugation (1st, 2nd, 3rd Person).md",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/Verb+Conjugation+(1st,+2nd,+and+3rd+Person)_REVIEW_IT_AND_WORKBOOK.pdf",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/Learn+it!+-+Verb+Conjugation+Persons+1st,+2nd,+3rd+Person+-+PRINT+VERSION.pdf",
+    "3. Verb Tenses/01_Verb_Tenses+(1) 1.pdf",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)",
+    "3. Verb Tenses/01_Verb_Tenses+(1).pdf",
+    "Untitled.md",
+    "3. Verb Tenses",
+    "2. How English Works - A Quick Review/2-7 Conjunctions - English Grammar.md",
+    "2. How English Works - A Quick Review/2-6 Prepositions - English Grammar.md",
+    "2. How English Works - A Quick Review/2-5 Adjectives, Adverbs, Determiners, and More - English Grammar.md",
+    "2. How English Works - A Quick Review/2-4 A Closer Look At Objects - English Grammar.md",
+    "2. How English Works - A Quick Review/2-3 Verbs - English Grammar.md",
+    "3.+Intro+to+Verbs.pdf",
+    "2. How English Works - A Quick Review/TaiLieu/3.+Intro+to+Verbs.pdf",
+    "2. How English Works - A Quick Review/2-2 Nouns - English Grammar.md",
+    "2. How English Works - A Quick Review/2-1 The Parts of an English Sentence - English Grammar.md",
+    "1. Getting Started/1-3 Helpful Resources.md",
+    "1. Getting Started/1-2 How to Study this Course, Study techniques, Video Play Speed.md",
+    "1. Getting Started/1-1 Course Navigation And Course Outline.md",
+    "README.md",
+    "udemy.com/course/learn-english-grammar-online/learn/lecture/30507196.md"
+  ]
+}
