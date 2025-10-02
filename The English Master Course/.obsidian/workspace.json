@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "a6eb82c36cbb31d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c014dc5b1875fb2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebd3153ace2c66e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Verb Tenses/3-6 Present Continuous Tense/3-6-1 Learn it! - Present Continuous Tense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-6-1 Learn it! - Present Continuous Tense"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddffd374cfef7d70",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ab99a0f5c95760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa13d16984a180d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be6617409ae0f0d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f43b2b61f8a12c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42e86b641b17357b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb331d842757346a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2fd3a7fc83c9700",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How English Works - A Quick Review/1-1 The Parts of an English Sentence - English Grammar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-1 The Parts of an English Sentence - English Grammar"
+            }
+          },
+          {
+            "id": "ae7dc141d531f450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How English Works - A Quick Review/1-1 The Parts of an English Sentence - English Grammar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-1 The Parts of an English Sentence - English Grammar"
+            }
+          },
+          {
+            "id": "fc66a4dc242b9aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9399430969be502",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How English Works - A Quick Review/1-1 The Parts of an English Sentence - English Grammar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-1 The Parts of an English Sentence - English Grammar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ebd3153ace2c66e8",
+  "lastOpenFiles": [
+    "3. Verb Tenses/3-5 Simple Future Tense/3-5-4 Practice it! - Simple Future Tense.md",
+    "3. Verb Tenses/3-6 Present Continuous Tense/3-6-1 Learn it! - Present Continuous Tense.md",
+    "3. Verb Tenses/3-6 Present Continuous Tense",
+    "3. Verb Tenses/3-5 Simple Future Tense/3-5-3 Use it! - Simple Future Tense.md",
+    "3. Verb Tenses/3-5 Simple Future Tense/3-5-2 Review it! - Simple Future Tense.md",
+    "3. Verb Tenses/3-5 Simple Future Tense/3-5-1 Learn it! - Simple Future Tense.md",
+    "2. How English Works - A Quick Review/2-7 Conjunctions - English Grammar.md",
+    "1. Getting Started/QuickNavigation+(3).pdf",
+    "2. How English Works - A Quick Review/2-6 Prepositions - English Grammar.md",
+    "2. How English Works - A Quick Review/2-5 Adjectives, Adverbs, Determiners, and More - English Grammar.md",
+    "2. How English Works - A Quick Review/2-4 A Closer Look At Objects - English Grammar.md",
+    "2. How English Works - A Quick Review/2-3 Verbs - English Grammar.md",
+    "2. How English Works - A Quick Review/2-2 Nouns - English Grammar.md",
+    "2. How English Works - A Quick Review/2-1 The Parts of an English Sentence - English Grammar.md",
+    "2. How English Works - A Quick Review/TaiLieu/1.+Parts+of+a+Sentence+-+Overview.pdf",
+    "3. Verb Tenses/3-5 Simple Future Tense/Learn+it!+-+Simple+Future+Tense+-+PRINT+VERSION.pdf",
+    "3. Verb Tenses/3-5 Simple Future Tense/Future+Simple_REVIEW_IT_AND_WORKBOOK.pdf",
+    "3. Verb Tenses/3-4 Simple Past Tense/3-4-4 Practice it! - Simple Past Tense.md",
+    "3. Verb Tenses/3-5 Simple Future Tense",
+    "3. Verb Tenses/Untitled.md",
+    "3. Verb Tenses/3-4 Simple Past Tense/3-4-3 Use it! - Simple Past Tense.md",
+    "3. Verb Tenses/3-4 Simple Past Tense/3-4-2 Review it! - Simple Past Tense.md",
+    "3. Verb Tenses/3-4 Simple Past Tense/3-4-1 Learn it! - Simple Past Tense.md",
+    "3. Verb Tenses/3-4 Simple Past Tense/Learn+it!+-+Simple+Past+Tense+-+PRINT+VERSION.pdf",
+    "3. Verb Tenses/3-4 Simple Past Tense",
+    "3. Verb Tenses/3-4 Simple Past Tense/Past+Simple+_REVIEW_IT_AND_WORKBOOK.pdf",
+    "3. Verb Tenses/3-3 Simple Present Tense/3-3-4 Practice it! - Simple Present Tense.md",
+    "3. Verb Tenses/3-3 Simple Present Tense/3-3-3 Use it! - Simple Present Tense.md",
+    "3. Verb Tenses/3-3 Simple Present Tense/3-3-2 Review it! - Simple Present Tense.md",
+    "3. Verb Tenses/3-3 Simple Present Tense/3-3-1 Learn it! - Simple Present Tense.md",
+    "3. Verb Tenses/3-2 Subject-Verb Agreement/3-2-4 Practice it! - Subject-Verb Agreement!.md",
+    "3. Verb Tenses/3-3 Simple Present Tense/Present+Simple_REVIEW_IT_AND_WORKBOOK.pdf",
+    "3. Verb Tenses/3-2 Subject-Verb Agreement/3-2-3 Use it! - Subject-Verb Agreement!.md",
+    "3. Verb Tenses/3-2 Subject-Verb Agreement/3-2-2 Review it! - Subject-Verb Agreement!.md",
+    "3. Verb Tenses/3-2 Subject-Verb Agreement/3-2-1 Learn it! - Subject-Verb Agreement!.md",
+    "3. Verb Tenses/3-1 Verb Conjugation (1st, 2nd, 3rd person)/3-1-4 Practice it! - Verb Conjugation (1st, 2nd, 3rd Person).md"
+  ]
+}

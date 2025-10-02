@@ -1,4 +1,4 @@
-[[2. How English Works - A Quick Review/TaiLieu/3.+Intro+to+Verbs.pdf|3.+Intro+to+Verbs]]
+[[2. How English Works - A Quick Review/TaiLieu/3.+Intro+to+Verbs.pdf]]
 # Ghi chú học tập: Động từ trong tiếng Anh
 
 ## Động từ (Verbs)
