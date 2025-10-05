@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b0e9faa04cbb337",
+        "id": "798a570db05b58cb",
         "type": "tabs",
         "children": [
           {
-            "id": "0edb59401f2d58f3",
+            "id": "00d945516a407ae3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS Band 7+ Full Prep Course/2. Grammar and Vocabulary Diagnostic Tests/2-4 English Self-Assessment Levels Test.md",
+                "file": "IELTS Band 7+ Full Prep Course/28. Writing Task 2 Overview/28-2 IELTS Task 2 Rubric Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-4 English Self-Assessment Levels Test"
+              "title": "28-2 IELTS Task 2 Rubric Analysis"
             }
           }
         ]
@@ -166,23 +166,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "0edb59401f2d58f3",
+  "active": "00d945516a407ae3",
   "lastOpenFiles": [
-    "IELTS Band 7+ Full Prep Course/2. Grammar and Vocabulary Diagnostic Tests/2-3 CEFR English Levels Test (A1 - C2).md",
+    "IELTS Band 7+ Full Prep Course/28. Writing Task 2 Overview/28-1 IELTS Task 2 Overview.md",
+    "IELTS Band 7+ Full Prep Course/28. Writing Task 2 Overview/28-2 IELTS Task 2 Rubric Analysis.md",
+    "IELTS Band 7+ Full Prep Course/25. Live(2018) Academic Writing Task 1 Class 1/25-4 Academic Task 1 Live Class (Part 4).md",
+    "IELTS Band 7+ Full Prep Course/28. Writing Task 2 Overview",
+    "IELTS Band 7+ Full Prep Course/25. Live(2018) Academic Writing Task 1 Class 1/25-3 Academic Task 1 Live Class (Part 3).md",
+    "IELTS Band 7+ Full Prep Course/25. Live(2018) Academic Writing Task 1 Class 1/25-2 Academic Task 1 Live Class (Part 2).md",
+    "IELTS Band 7+ Full Prep Course/25. Live(2018) Academic Writing Task 1 Class 1/25-1 Academic Task 1 Live Class (JPart 1).md",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-10 Bar Chart Specific Details Paragraphs (Paragraphs 3 and 4).md",
+    "IELTS Band 7+ Full Prep Course/25. Live(2018) Academic Writing Task 1 Class 1",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-9 Bar Chart Introduction and Overview (Paragraphs 1 and 2).md",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-8 Academic Task 1 Strategy Review Part 3.md",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-7 Academic Task 1 Strategy Review Part 2.md",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-6 Academic Task 1 Strategy Review Part 1.md",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task1-Vocabulary/Task+1+Academic+.Vocabulary.Approximation+Language.pdf",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task1-Vocabulary/Task.1.Language.To.Use.pdf",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task1-Vocabulary/IELTS+Task+1+Writing+vocabulary.pdf",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task1-Vocabulary/IELTS+Academic+Task+1+Language+Charts.pdf",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-5 Academic Task 1 Vocabulary.md",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task1-Vocabulary",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-4 IELTS Writing Task 1 Question Types.md",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task1-QuestionTypes/Question+Types+IELTS+Task+1+Academic.docx",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task1-QuestionTypes",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-3 IELTS Writing Task 1 Basics.md",
+    "IELTS Band 7+ Full Prep Course/Resources/Writing/Task-1-Basics/IELTS+Task+1+Writing+vocabulary.revised.pdf",
+    "IELTS Band 7+ Full Prep Course/Img/Writing-Task1.png",
+    "IELTS Band 7+ Full Prep Course/Img/{C9B3A575-2382-4FFE-87B1-55766DF835E7}.png",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-2 IELTS Writing Task 1 Rubric Advice (Attacking the Rubric).md",
+    "IELTS Band 7+ Full Prep Course/24. IELTS Writing Academic Task 1 Strategy And Tatics/24-1 IELTS Academic Writing Task 1 Overview.md",
     "IELTS Band 7+ Full Prep Course/2. Grammar and Vocabulary Diagnostic Tests/2-4 English Self-Assessment Levels Test.md",
+    "IELTS Band 7+ Full Prep Course/2. Grammar and Vocabulary Diagnostic Tests/2-3 CEFR English Levels Test (A1 - C2).md",
     "IELTS Band 7+ Full Prep Course/2. Grammar and Vocabulary Diagnostic Tests/2-2 Vocabulary Levels Diagnostic Test.md",
-    "IELTS Band 7+ Full Prep Course/Resources/Grammar Diagnostic Test/Grammar.Diagnostic.Test.pdf",
     "IELTS Band 7+ Full Prep Course/2. Grammar and Vocabulary Diagnostic Tests/2.1 Grammar Diagnostic Test.md",
-    "IELTS Band 7+ Full Prep Course/Resources/Grammar Diagnostic Test/subject-specific-vocabulary.pdf",
-    "IELTS Band 7+ Full Prep Course/Resources/Grammar Diagnostic Test/Academic+Word+List.pdf",
-    "IELTS Band 7+ Full Prep Course/Resources/Grammar Diagnostic Test/Descriptive+Word+List.2.pdf",
-    "IELTS Band 7+ Full Prep Course/Resources/Grammar Diagnostic Test/2021_Teachers_PTE_Academic_Collocation_List.pdf",
-    "IELTS Band 7+ Full Prep Course/Resources/Grammar Diagnostic Test/Edited+TOEFL.Vocabulary.Practice.Tests.IELTS.ALSO+(2).pdf",
-    "IELTS Band 7+ Full Prep Course/Resources/Grammar Diagnostic Test",
     "IELTS Band 7+ Full Prep Course/1. IELTS Exam Basic Information/1-3 Computer Based Test v. Paper Based Test.md",
-    "IELTS Band 7+ Full Prep Course/Resources/Accelerated.Academic.Syllabus.IELTS+Band+7 1.docx",
-    "IELTS Band 7+ Full Prep Course/Resources/Accelerated.General.Syllabus.IELTS+Band+7 1.docx",
-    "IELTS Band 7+ Full Prep Course/Resources/Accelerated.Academic.Syllabus.IELTS+Band+7.docx",
     "IELTS Band 7+ Full Prep Course/1. IELTS Exam Basic Information/1-2 IELTS Exam 2025 Format Update.md",
     "IELTS Band 7+ Full Prep Course/1. IELTS Exam Basic Information/1-1 IELTS Exam Basic Information.md",
     "IELTS Band 7+ Full Prep Course/README.md"
