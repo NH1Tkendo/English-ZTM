@@ -1,0 +1,1 @@
+Xem trong Resources/Writing/Task2-Vocabulary
