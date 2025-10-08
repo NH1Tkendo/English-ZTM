@@ -1,0 +1,1 @@
+Xem file AllSampleResponse.pdf trong Speking-Part1
